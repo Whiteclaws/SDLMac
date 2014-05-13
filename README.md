@@ -22,7 +22,7 @@ Just go ahead and make it better, be sure to let me know if you made any nice mo
 
 - Could i get the source?
 
-Download the example and give it a go!
+Download the example here ... https://db.tt/9dvf4AWN
 
 
 - Sweet! Thanks!
