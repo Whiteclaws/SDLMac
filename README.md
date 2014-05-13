@@ -25,4 +25,6 @@ Just go ahead and make it better, be sure to let me know if you made any nice mo
 Download the example and give it a go!
 
 
- 
+- Sweet! Thanks!
+
+Just a notice, use it as you want, just be sure to keep a copy of the original src when distributing
